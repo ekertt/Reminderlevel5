@@ -1,4 +1,4 @@
-package com.slepnev.reminder
+package com.example.reminder
 
 import android.app.Activity
 import android.content.Intent

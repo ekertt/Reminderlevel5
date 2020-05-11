@@ -1,4 +1,4 @@
-package com.slepnev.reminder
+package com.example.reminder
 
 import android.view.LayoutInflater
 import android.view.View

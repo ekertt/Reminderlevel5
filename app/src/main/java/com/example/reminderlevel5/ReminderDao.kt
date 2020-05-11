@@ -1,4 +1,4 @@
-package com.slepnev.reminder
+package com.example.reminder
 
 import androidx.lifecycle.LiveData
 import androidx.room.*

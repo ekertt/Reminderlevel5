@@ -1,4 +1,4 @@
-package com.slepnev.reminder
+package com.example.reminder
 
 import android.os.Parcelable
 import androidx.room.ColumnInfo
